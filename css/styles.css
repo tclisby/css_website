@@ -7,7 +7,7 @@ font-family: 'Roboto', sans-serif;
 /****************Tag Selectors**************/
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(207, 207, 207);
 }
 
 body {
@@ -22,7 +22,7 @@ h1 {
   font-family: cursive;
   font-size: 5.625rem;
   margin-bottom: 0;
-  color: #393e46;
+  color: #e7e7e7;
   line-height: 1.5;
 }
 
@@ -63,7 +63,7 @@ h3 {
 
 .chilanka_font {
   font-family: 'Chilanka', cursive;
-  color: #393e46;
+  color: #cacbcc;
 }
 
 .contact-me {
@@ -159,7 +159,7 @@ h3 {
   margin: 0;
 }
 .top_container {
-  background-color: #32e0c4;
+  background-color: #096fce;
   padding-top: 50px;
   position: relative;
 }
@@ -183,7 +183,7 @@ h3 {
 }
 
 .contact-button {
-   background: #A1E3D8;
+   background: #55ebb9;
    /*background-image: -webkit-linear-gradient(top, #A1E3D8, #32E0C4);
    background-image: -moz-linear-gradient(top, #A1E3D8, #32E0C4);
    background-image: -ms-linear-gradient(top, #A1E3D8, #32E0C4);
